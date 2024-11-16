@@ -23,10 +23,11 @@ I am a fan of System Design and Event-Driven Architecture. Know a lot about SAGA
 
 ### My talks
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tLw8lJ-Eijk?si=VOYmsDgzckJUTVe5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tLw8lJ-Eijk/0.jpg)](https://www.youtube.com/watch?v=tLw8lJ-Eijk)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sczOV0aTZrA?si=pLt6Q8E2gRkvJbbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sczOV0aTZrA/0.jpg)](https://www.youtube.com/watch?v=sczOV0aTZrA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sczOV0aTZrA?si=pLt6Q8E2gRkvJbbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sczOV0aTZrA/0.jpg)](https://www.youtube.com/watch?v=sczOV0aTZrA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cwzW0cfBz20?si=SN6UjrdfEg6OuB50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cwzW0cfBz20/0.jpg)](https://www.youtube.com/watch?v=cwzW0cfBz20)
+
